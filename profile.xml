@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <task name="CNN_ResNet_BATCH1_Layer_fourth_ResidualLearningBlock_end_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="263" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="546" unit="us" type="Maximum"/>
@@ -17,13 +17,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_second_ResidualLearningBlock_third_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="556" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="1616" unit="us" type="Maximum"/>
@@ -33,13 +33,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_third_ResidualLearningBlock_end_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="134" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="395" unit="us" type="Maximum"/>
@@ -73,9 +73,9 @@
             <bound value="2288" unit="us" type="Maximum"/>
             <bound value="689" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -87,21 +87,21 @@
             <bound value="2288" unit="us" type="Maximum"/>
             <bound value="689" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_second_ResidualLearningBlock_first_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1011" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2993" unit="us" type="Maximum"/>
@@ -127,13 +127,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1548" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="3978" unit="us" type="Maximum"/>
@@ -143,13 +143,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_ResidualLearningBlock_third_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="595" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="1879" unit="us" type="Maximum"/>
@@ -159,13 +159,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_second_ResidualLearningBlock_start_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2" unit="us" type="Maximum"/>
@@ -183,21 +183,21 @@
             <bound value="8812" unit="us" type="Maximum"/>
             <bound value="5233" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_ResidualLearningBlock_start_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2" unit="us" type="Maximum"/>
@@ -211,13 +211,13 @@
             <bound value="729" unit="us" type="Maximum"/>
             <bound value="547" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -227,13 +227,13 @@
             <bound value="4920" unit="us" type="Maximum"/>
             <bound value="356" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -247,9 +247,9 @@
             <bound value="402" unit="us" type="Maximum"/>
             <bound value="40" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -261,9 +261,9 @@
             <bound value="3167" unit="us" type="Maximum"/>
             <bound value="1694" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -277,9 +277,9 @@
             <bound value="749" unit="us" type="Maximum"/>
             <bound value="264" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -291,21 +291,21 @@
             <bound value="749" unit="us" type="Maximum"/>
             <bound value="264" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_second_ResidualLearningBlock_end_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="210" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="590" unit="us" type="Maximum"/>
@@ -339,9 +339,9 @@
             <bound value="411" unit="us" type="Maximum"/>
             <bound value="208" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -353,9 +353,9 @@
             <bound value="411" unit="us" type="Maximum"/>
             <bound value="208" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -369,9 +369,9 @@
             <bound value="425" unit="us" type="Maximum"/>
             <bound value="231" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -383,9 +383,9 @@
             <bound value="425" unit="us" type="Maximum"/>
             <bound value="231" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -415,21 +415,21 @@
             <bound value="23494" unit="us" type="Maximum"/>
             <bound value="12390" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_ResidualLearningBlock_end_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="272" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="749" unit="us" type="Maximum"/>
@@ -447,9 +447,9 @@
             <bound value="2160" unit="us" type="Maximum"/>
             <bound value="1451" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -461,9 +461,9 @@
             <bound value="2160" unit="us" type="Maximum"/>
             <bound value="1451" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -477,21 +477,21 @@
             <bound value="4" unit="us" type="Maximum"/>
             <bound value="3" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_fourth_ResidualLearningBlock_second_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="920" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2407" unit="us" type="Maximum"/>
@@ -509,9 +509,9 @@
             <bound value="13726" unit="us" type="Maximum"/>
             <bound value="6382" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -523,21 +523,21 @@
             <bound value="13726" unit="us" type="Maximum"/>
             <bound value="6382" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_ResidualLearningBlock_second_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="979" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2678" unit="us" type="Maximum"/>
@@ -547,13 +547,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_third_ResidualLearningBlock_second_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="647" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="1894" unit="us" type="Maximum"/>
@@ -563,13 +563,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_last_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1239" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="3246" unit="us" type="Maximum"/>
@@ -587,9 +587,9 @@
             <bound value="57" unit="us" type="Maximum"/>
             <bound value="11" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -601,9 +601,9 @@
             <bound value="567" unit="us" type="Maximum"/>
             <bound value="328" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -617,9 +617,9 @@
             <bound value="102" unit="us" type="Maximum"/>
             <bound value="11" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -631,9 +631,9 @@
             <bound value="463" unit="us" type="Maximum"/>
             <bound value="313" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -647,9 +647,9 @@
             <bound value="606" unit="us" type="Maximum"/>
             <bound value="82" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -679,21 +679,21 @@
             <bound value="927" unit="us" type="Maximum"/>
             <bound value="44" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_third_ResidualLearningBlock_first_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="684" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2093" unit="us" type="Maximum"/>
@@ -711,21 +711,21 @@
             <bound value="1" unit="us" type="Maximum"/>
             <bound value="1" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_fourth_ResidualLearningBlock_first_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="848" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2562" unit="us" type="Maximum"/>
@@ -735,13 +735,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_last_pool">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="199" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="581" unit="us" type="Maximum"/>
@@ -775,9 +775,9 @@
             <bound value="1435" unit="us" type="Maximum"/>
             <bound value="146" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -787,13 +787,13 @@
             <bound value="344" unit="us" type="Maximum"/>
             <bound value="44" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -815,13 +815,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_third_ResidualLearningBlock_third_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="376" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="1405" unit="us" type="Maximum"/>
@@ -855,9 +855,9 @@
             <bound value="35542" unit="us" type="Maximum"/>
             <bound value="24250" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -871,21 +871,21 @@
             <bound value="2876" unit="us" type="Maximum"/>
             <bound value="1255" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_fourth_ResidualLearningBlock_third_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="583" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="1637" unit="us" type="Maximum"/>
@@ -895,13 +895,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_ResidualLearningBlock_first_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="964" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2855" unit="us" type="Maximum"/>
@@ -959,13 +959,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_second_ResidualLearningBlock_second_conv">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="957" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2633" unit="us" type="Maximum"/>
@@ -983,9 +983,9 @@
             <bound value="23118" unit="us" type="Maximum"/>
             <bound value="20352" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -999,9 +999,9 @@
             <bound value="1265" unit="us" type="Maximum"/>
             <bound value="251" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
     <mode name="P_Frame">
@@ -1013,9 +1013,9 @@
             <bound value="1265" unit="us" type="Maximum"/>
             <bound value="251" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -1025,13 +1025,13 @@
             <bound value="183" unit="us" type="Maximum"/>
             <bound value="41" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
@@ -1045,21 +1045,21 @@
             <bound value="4783" unit="us" type="Maximum"/>
             <bound value="4182" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_fourth_ResidualLearningBlock_start_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2" unit="us" type="Maximum"/>
@@ -1069,13 +1069,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_third_ResidualLearningBlock_start_shortcut">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="1" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="2" unit="us" type="Maximum"/>
@@ -1085,13 +1085,13 @@
 </task>
 <task name="CNN_ResNet_BATCH1_Layer_first_pool">
     <mode name="Default">
-        <profile value="999999" unit="us" processorType="ARM_A57">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="ARM_A57">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="Denver">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="Denver">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
         <profile value="234" unit="us" processorType="NVIDIA_Pascal_GPU">
             <bound value="653" unit="us" type="Maximum"/>
@@ -1109,9 +1109,9 @@
             <bound value="6" unit="us" type="Maximum"/>
             <bound value="5" unit="us" type="Minimum"/>
         </profile>
-        <profile value="999999" unit="us" processorType="NVIDIA_Pascal_GPU">
-            <bound value="999999" unit="us" type="Maximum"/>
-            <bound value="999999" unit="us" type="Minimum"/>
+        <profile value="99999999" unit="us" processorType="NVIDIA_Pascal_GPU">
+            <bound value="99999999" unit="us" type="Maximum"/>
+            <bound value="99999999" unit="us" type="Minimum"/>
         </profile>
     </mode>
 </task>
