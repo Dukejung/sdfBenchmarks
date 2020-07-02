@@ -1115,20 +1115,6 @@
         </profile>
     </mode>
 </task>
-<library name="CryptographywithLibrary_CryptographyLibrary">
-    <function name="encrypt">
-        <profile value="1" unit="us" processorType="i7">
-            <bound value="1" unit="us" type="Maximum"/>
-            <bound value="1" unit="us" type="Minimum"/>
-        </profile>
-    </function>
-    <function name="decrypt">
-        <profile value="1" unit="us" processorType="i7">
-            <bound value="1" unit="us" type="Maximum"/>
-            <bound value="1" unit="us" type="Minimum"/>
-        </profile>
-    </function>
-</library>
 <comm timeunit="us" src="ARM_A57" secondPowerCoef="0" firstPowerCoef="0" dst="ARM_A57" constant="0"/>
 <comm timeunit="us" src="ARM_A57" secondPowerCoef="0" firstPowerCoef="0" dst="Denver" constant="0"/>
 <comm timeunit="us" src="ARM_A57" secondPowerCoef="-1.1256" firstPowerCoef="170.36" dst="NVIDIA_Pascal_GPU" constant="97.738"/>
